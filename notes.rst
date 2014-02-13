@@ -24,10 +24,10 @@ Players:
 NPCs:
 
 - Owner
-- Spy
+- Spy, wearing ski-mask.
 - Crazy cat lady, owner's wife, in love with chef.
 - cooks, triplets.
-- initial dead-guy
+- initial dead-guy, food critic
 - his hooker
 
 Endings
@@ -46,6 +46,8 @@ Funny:
 - Triplets shed skin, eat everyone, and get beamed out of kitchen
 - Crazy cat lady unleashes cat storm that cuddles everyone to death
 - Spy hooks up 
-- Owner canibalises body
+- Owner canibalises body, Chef & Sous-chef become cannibals too
 - dead guy comes back to life
+- everybody gets violent food poisoning and dies from vomiting
+
 
