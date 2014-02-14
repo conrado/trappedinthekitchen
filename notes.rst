@@ -34,15 +34,18 @@ Endings
 =======
 
 Deaths:
+
 - Booby-trapped oven kills everyone.
 - Eating poisoned food
 - Couple's fight, cat lady and owner or chef/sous-chef, by stabbing or bludgeoning.
 
 Happy:
+
 - threesome with hooker
 - identify killer
 
 Funny:
+
 - Triplets shed skin, eat everyone, and get beamed out of kitchen
 - Crazy cat lady unleashes cat storm that cuddles everyone to death
 - Spy hooks up 
